@@ -1,0 +1,19 @@
+ Little Man Computer site for use in Lab 1Links to an external site.
+
+http://peterhigginson.co.uk/lmc/
+
+Note: the site did not work correctly for me in Firefox browser but did work in all others that I tried.  You have to resize the text area on the left so that you can see the Submit button in order to make it work in Firefox.
+
+The LMC Instruction Set
+
+https://gcsecomputing.org.uk/theory/lmc-instruction-set/Links to an external site. https://teachcomputerscience.com/lmc-summary/Links to an external site.
+
+Solve the following problem:
+
+                1.a Sum three numbers from input and store the result.
+                1.b Then sum two numbers from input and subtract the sum of the first three numbers from the sum of the last two.      
+                1.c Then output the result and halt
+
+Tips:  Use the SUB instruction to do the subtraction.
+
+ Submit your LMC machine code on this assignment.
