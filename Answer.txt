@@ -1,0 +1,17 @@
+        INP
+        STA 99
+        INP
+        ADD 99
+        STA 89
+        INP
+        ADD 89
+        STA 79
+        INP
+        STA 69
+        INP
+        ADD 69
+        STA 59
+        LDA 79
+        SUB 59
+        OUT
+        HLT
